@@ -25,15 +25,7 @@ ul {
   padding:40px 90px;
   color:#fff;
 }
-.first-card{
-  background: #1f283b;
-  border-radius:10px;
-}
-.second-card{
-  background: #1f283b;
-  border-radius:10px;
-}
-.third-card{
+.cards{
   background: #1f283b;
   border-radius:10px;
 }
